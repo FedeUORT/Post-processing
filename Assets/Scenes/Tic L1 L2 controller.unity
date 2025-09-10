@@ -611,7 +611,13 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1929154863}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &875750537
+--- !u!4 &875750540 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1590670316893657769, guid: 75de62f9478685d4b94ac9d5b3c8e86e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1929154863}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &875750541
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -671,12 +677,6 @@ MonoBehaviour:
   m_BeforeTransparentBundles: []
   m_BeforeStackBundles: []
   m_AfterStackBundles: []
---- !u!4 &875750540 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1590670316893657769, guid: 75de62f9478685d4b94ac9d5b3c8e86e,
-    type: 3}
-  m_PrefabInstance: {fileID: 1929154863}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &971622579
 GameObject:
   m_ObjectHideFlags: 0
